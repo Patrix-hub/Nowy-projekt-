@@ -13,3 +13,4 @@ for litera in wybor.lower():
 
 print("Liczba samogłosek: ", liczba_samoglosek)
 print("Liczba spółgłosek: ", liczba_spolglosek)
+print("Zmiana została wprowadzona")
